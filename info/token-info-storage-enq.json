@@ -212,10 +212,9 @@
     {  
         "token_id":"ea3210e13e35dcd677b202b2f63e88c451070aa6378bd3ea5f717f5e32a1f269",
         "logo": "ERT.png",
-        "website":"https://rarible.com/ert",
+        "website":"https://rarible.com/ert"
         "description": {
             "en":" ENERGY RESOURCE TOKEN Created to popularize NFT ",
-            "ru":" ENERGY RESOURCE TOKEN Создан для популяризации NFT.",
-         },
-        "coingecko_id": "coingecko-id" 
-    },
+            "ru":" ENERGY RESOURCE TOKEN Создан для популяризации NFT"
+     },
+
